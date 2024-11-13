@@ -1,29 +1,5 @@
 #!/bin/bash
 
-###############################################################
-#  TITRE: 
-#
-#  AUTEUR:   Xavier
-#  VERSION: 
-#  CREATION:  
-#  MODIFIE: 
-#
-#  DESCRIPTION: 
-###############################################################
-
-
-
-# Variables ###################################################
-
-
-
-# Functions ###################################################
-
-
-
-# Let's Go !! #################################################
-
-
 #curl -sL https://bootstrap.saltstack.com -o install_salt.sh 2>&1 >/dev/null 
 #curl -o bootstrap-salt.sh -L https://bootstrap.saltproject.io
 #chmod 755 install_salt.sh
