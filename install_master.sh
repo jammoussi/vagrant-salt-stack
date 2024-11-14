@@ -29,7 +29,7 @@ pillar_roots:
 " >> /etc/salt/master
 
 echo "
-master: 127.0.0.1
+master: salt1
 " > /etc/salt/minion
 
 sudo systemctl restart salt-master
